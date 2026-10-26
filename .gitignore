@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.todo_data/
+todo_items.json
+todolist.json
+.pytest_cache/
+.venv/
+venv/
